@@ -126,7 +126,7 @@ nav li a:hover {
 ------------------------------------------*/
 
 .main_image{
-    background: url(../img/main_back_image.jpg) no-repeat center/cover;
+    background: url(../img/grasshopper.jpg) no-repeat center/cover;
     /* 背景画像を表示去るためのショートカットで、下記4行と同じ意味 */
     /*
      background-image: url(../img/main_back_image.jpg);
